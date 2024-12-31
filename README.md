@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Masaya Inoue
-- 💻 Data Scientist Skilled with Python
-- 
+👋 Hi, I’m Masaya Inoue
 
-<!---
-092399/092399 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Background
+I hold a Master's degree in Business Administration with a focus on Business Analytics.
+
+💻 Professional Expertise
+As a Data Scientist currently working in the IT and Business Development division, I bring expertise in:
+Python, SQL, and R for data analysis and machine learning.
+Advanced analytics and business intelligence to drive decision-making.
+Bridging technical insights with strategic business objectives.
+
+📜 Certifications
+Microsoft Office Specialist (MOS)
+Python, R and SQL Certified 
+
+🏋️ Personal Interests
+Outside of work, I enjoy working out three times a week and am on a mission to gain muscle! 💪
+
+🌍 Let's Connect
+Feel free to explore my projects, and reach out for collaboration or inquiries.
